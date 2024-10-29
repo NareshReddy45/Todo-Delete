@@ -1,0 +1,20 @@
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #ff8542;
+}
+
+.container {
+  background-color: #ffffff;
+  color: #ffc2a0;
+  width: 90%;
+  /* height: 90%; */
+  padding: 10px;
+  text-align: center;
+}
